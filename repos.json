@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "Lineage21",
-      "repo": "https://github.com/DawfukFR/kernel_oneplus_sm8250",
+      "repo": "https://github.com/Hosrg/kernel_oneplus_sm8250",
       "branch": "OOS13.1",
       "device": "bluejay"
     },
